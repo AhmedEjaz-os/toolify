@@ -35,7 +35,7 @@ const translations = {
         emailSubject: 'بخصوص ',
         emailBody: 'مرحبا ',
         emailInterest: 'أنا مهتم بالمنتج',
-    },
+    }
 };
 
 const i18n = new I18n(translations);

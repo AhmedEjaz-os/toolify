@@ -13,7 +13,7 @@ const translations = {
   },
   ar: {
     nopostfound: 'لم يتم العثور على إعلانات',
-  },
+  }
 };
 
 const i18n = new I18n(translations);

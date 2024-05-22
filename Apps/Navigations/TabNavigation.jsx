@@ -25,7 +25,7 @@ const translations = {
     explore: 'استكشف',
     add: 'اضف',
     profile: 'الملف الشخصي',
-  },
+  }
 };
 
 const i18n = new I18n(translations);

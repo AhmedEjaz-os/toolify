@@ -12,7 +12,7 @@ const translations = {
   ar: {
     categories: 'فئات',
 
-  },
+  }
 };
 
 const i18n = new I18n(translations);

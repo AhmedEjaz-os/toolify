@@ -31,7 +31,7 @@ const translations = {
     submitButton: 'إرسال',
     loadingText: 'جار التحميل...',
     successMessage: 'تم إضافة المنشور بنجاح',
-  },
+  }
 };
 
 const i18n = new I18n(translations);

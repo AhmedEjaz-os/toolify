@@ -12,7 +12,7 @@ import store from './store';
 export default function App() {
   return (
     <Provider store={store}>
-    <ClerkProvider publishableKey="pk_test_ZWFzeS1nYW5uZXQtMTQuY2xlcmsuYWNjb3VudHMuZGV2JA">
+    <ClerkProvider publishableKey={Constants.expoConfig.extra.clerkPublishableKey}>
       <View className="flex-1  bg-white">
         <StatusBar style="auto" />
 

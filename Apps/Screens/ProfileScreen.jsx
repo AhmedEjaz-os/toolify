@@ -22,7 +22,7 @@ const translations = {
     explore: 'استكشف',
     logout: 'تسجيل خروج',
 
-  },
+  }
 };
 
 const i18n = new I18n(translations);

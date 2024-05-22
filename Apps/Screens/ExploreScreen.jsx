@@ -13,7 +13,7 @@ const translations = {
   },
   ar: {
     explore: 'استكشاف المزيد',
-  },
+  }
 };
 
 const i18n = new I18n(translations);

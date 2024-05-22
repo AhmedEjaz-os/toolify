@@ -12,7 +12,7 @@ const translations = {
   ar: {
     latestitem: 'أحدث العناصر',
 
-  },
+  }
 };
 
 const i18n = new I18n(translations);
